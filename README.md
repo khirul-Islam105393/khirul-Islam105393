@@ -19,7 +19,7 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
  <a href="https://www.facebook.com/khirul.islam.735" target="blank" title="Facebook Profile"><img width="22"  src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png'> Facebook </a>
 </code>
    <code>
-    <a href="https://www.linkedin.com/in/khirul-islam-a37010274/" target="blank" title="LinkedIn Profile"><img width="22"                 src='https://image.flaticon.com/icons/png/512/174/174857.png'> LinkedIn</a>
+    <a href="https://www.linkedin.com/in/khirul-islam-a37010274" target="blank" title="LinkedIn Profile"><img width="22"                 src='https://image.flaticon.com/icons/png/512/174/174857.png'> LinkedIn</a>
   </code>
  
 <code>
