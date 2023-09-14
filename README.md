@@ -20,7 +20,7 @@ Skills: HTML / CSS/ Bootstrap/ JavaScript/ TypeScript/React/ Node.js/Express
 </code>
    <code>
  <a href="https://www.linkedin.com/in/khirul-islam-a37010274" target="blank" title="LinkedIn Profile">
-  <img width="22" src="URL_TO_LINKEDIN_PROFILE_PICTURE">
+  <img width="22" src="https://www.freeiconspng.com/img/2026">
   LinkedIn
 </a>
  
